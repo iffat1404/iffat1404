@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Iffat 👋</h1>
-<h3 align="center">MCA Student @ SPIT, Mumbai | Aspiring Full-Stack Developer</h3>
+<h3 align="center">MCA Student @ SPIT, Mumbai | Aspiring Software Developer</h3>
 
 ---
 

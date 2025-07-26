@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-Hello! I'm Iffat, currently pursuing my MCA from **Sardar Patel Institute of Technology (SPIT), Mumbai. I have a deep interest in software development as well as data and love building applications using modern technologies.
+Hello! I'm Iffat, currently pursuing my MCA from Sardar Patel Institute of Technology (SPIT), Mumbai. I have a deep interest in software development as well as data and love building applications using modern technologies.
 
 ---
 
